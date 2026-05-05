@@ -77,22 +77,22 @@ I designed a **multi-page Power BI dashboard** that connects:
 
 ---
 
-## 🔍 Key Insights  
+##  Key Insights  
 
-- 📉 Claims failures due to data validation issues  
-- 🗺️ Higher 3D navigation usage in high-activity areas  
-- ⏱ Improved processing time after optimization  
-- 🏢 Incomplete brand data impacting system performance  
+- Claims failures due to data validation issues  
+- Higher 3D navigation usage in high-activity areas  
+- Improved processing time after optimization  
+- Incomplete brand data impacting system performance  
 
 ---
 
 ##  Business Impact  
 
-- ✔ Improved data accuracy  
-- ✔ Reduced claim delays  
-- ✔ Enhanced navigation insights  
-- ✔ Enabled real-time monitoring  
-- ✔ Supported faster decision-making  
+-  Improved data accuracy  
+-  Reduced claim delays  
+-  Enhanced navigation insights  
+-  Enabled real-time monitoring  
+-  Supported faster decision-making  
 
 ---
 

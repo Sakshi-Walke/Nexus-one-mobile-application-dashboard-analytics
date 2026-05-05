@@ -114,3 +114,19 @@ https://drive.google.com/file/d/1tGh1RK32-0U-obTavcmQQTbPPZYn_7QV/view?usp=shari
 ---
 
 ##  Repository Structure  
+📁 nexus-one-dashboard-analytics
+│
+├── 📁 data
+│   └── nexus_data.xlsx
+│
+├── 📁 dashboard
+│   └── (https://drive.google.com/file/d/1tGh1RK32-0U-obTavcmQQTbPPZYn_7QV/view)
+│
+├── 📁 images
+│   └── <img width="1336" height="960" alt="Nexus One Application Dashboard" src="https://github.com/user-attachments/assets/90cdcd87-2d73-46db-b194-3b290371f100" />
+
+│
+├── 📁 docs
+│   └── project-details.md
+│
+└── README.md

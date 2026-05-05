@@ -111,21 +111,3 @@ I designed a **multi-page Power BI dashboard** that connects:
 https://drive.google.com/file/d/1tGh1RK32-0U-obTavcmQQTbPPZYn_7QV/view?usp=sharing
 
 
----
-
-##  Repository Structure  
-📁 nexus-one-dashboard-analytics
-│
-├── 📁 data
-│   └── nexus_data.xlsx
-│
-├── 📁 dashboard
-│   
-│
-├── 📁 images
-│  
-│
-├── 📁 docs
-│   └── project-details.md
-│
-└── README.md

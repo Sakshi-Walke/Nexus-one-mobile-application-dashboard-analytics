@@ -105,6 +105,8 @@ I designed a **multi-page Power BI dashboard** that connects:
 ---
 
 ## Dashboard Preview  
+<img width="1336" height="960" alt="Nexus One Application Dashboard" src="https://github.com/user-attachments/assets/18468be4-e0c5-4239-824a-e799e48f65db" />
+
 
 https://drive.google.com/file/d/1tGh1RK32-0U-obTavcmQQTbPPZYn_7QV/view?usp=sharing
 
